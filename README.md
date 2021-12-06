@@ -40,8 +40,8 @@ my-personal-website
     <img src="https://img.shields.io/badge/JavaScript-1c1d29?style=for-the-badge&logo=javascript&logoColor=e82c2c" alt="JavaScript" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/HTML5-1c1d29?style=for-the-badge&logo=html5&logoColor=e82c2c" alt="HTML5" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/CSS3-1c1d29?style=for-the-badge&logo=css3&logoColor=e82c2c" alt="CSS3" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/CSS3-1c1d29?style=for-the-badge&logo=sass&logoColor=e82c2c" alt="SASS" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/CSS3-1c1d29?style=for-the-badge&logo=npm&logoColor=e82c2c" alt="NPM" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/SASS-1c1d29?style=for-the-badge&logo=sass&logoColor=e82c2c" alt="SASS" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/NPM-1c1d29?style=for-the-badge&logo=npm&logoColor=e82c2c" alt="NPM" style="border-radius:15px"/>
 </div>
 
 
