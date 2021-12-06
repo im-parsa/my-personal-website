@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="200px" src="https://cdn.discordapp.com/attachments/776425421968244768/910249862140948510/logo2.png" alt="parsa firoozi - im-parsa"/>
+  <img width="200px" src="https://cdn.discordapp.com/attachments/776425421968244768/917309799824252968/favicon.png" alt="parsa firoozi - im-parsa"/>
 <br/>
 
 my-personal-website
