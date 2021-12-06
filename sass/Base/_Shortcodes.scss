@@ -1,4 +1,3 @@
-
 /* Flat About
 ---------------------------------------------------------------*/
 .flat-about {
@@ -1497,22 +1496,28 @@ article.minimals-creative-post.style1 .entry-post .entry-content .share-link {
 @-webkit-keyframes heartbit {
     0% {
         -webkit-transform: scale(0);
-        opacity: 0.0; }
+        opacity: 0.0;
+    }
     25% {
         -webkit-transform: scale(0.1);
-        opacity: 0.3; }
+        opacity: 0.3;
+    }
     50% {
         -webkit-transform: scale(0.5);
-        opacity: 0.5; }
+        opacity: 0.5;
+    }
     75% {
         -webkit-transform: scale(0.8);
-        opacity: 0.7; }
+        opacity: 0.7;
+    }
     85% {
         -webkit-transform: scale(1);
-        opacity: 0.9; }
+        opacity: 0.9;
+    }
     100% {
         -webkit-transform: scale(1);
-        opacity: 0.0; }
+        opacity: 0.0;
+    }
 }
 
 .flat-old-year ul.list-year li > p.date {
@@ -1789,7 +1794,7 @@ article.minimals-creative-post.style1 .entry-post .entry-content .share-link {
 .progres .progress-item .perc.show {
     opacity: 1;
     left: 0;
-    overflow: visible!important;
+    overflow: visible !important;
 }
 
 .progres .progress-item .perc span {
@@ -2063,9 +2068,10 @@ article.box-price.style1 .content-price .btn-price a {
     padding: 0 33px 0 34px;
     margin-top: 37px;
     border: 2px solid whitesmoke;
-    color:  whitesmoke;
+    color: whitesmoke;
     border-radius: 10px;
 }
+
 article.box-price.style1 .content-price .btn-price a:hover {
     display: inline-block;
     font-size: 12px;
@@ -2075,9 +2081,10 @@ article.box-price.style1 .content-price .btn-price a:hover {
     padding: 0 33px 0 34px;
     margin-top: 37px;
     border: 2px solid #e82c2c;
-    color:  #e82c2c;
+    color: #e82c2c;
     border-radius: 10px;
 }
+
 article.box-price.style1.starter .content-price ul li:nth-child(3) i,
 article.box-price.style1.starter .content-price ul li:nth-child(4) i {
     color: #c2c1ca;
@@ -3027,7 +3034,7 @@ article.box-price.style1.v1 .content-price .btn-price a {
     overflow: hidden;
 }
 
-.form-contact-form.three .contact-form.one-third  {
+.form-contact-form.three .contact-form.one-third {
     padding-left: 15px;
     padding-right: 15px;
     float: left;
@@ -3342,7 +3349,7 @@ article.box-price.style1.v1 .content-price .btn-price a {
 }
 
 .tab-about.style2 .content-tab .one-half .text-tabs .text-content p {
-    line-height:26px;
+    line-height: 26px;
     margin-bottom: 10px;
 }
 
@@ -3746,7 +3753,7 @@ article.box-price.style1.v1 .content-price .btn-price a {
 
 /* Clock Item Style1 */
 .clock-item.style1 .text .val,
-.clock-item.style1 .text .type-time  {
+.clock-item.style1 .text .type-time {
     color: #fff;
 }
 
@@ -6803,10 +6810,10 @@ footer.style1 {
     bottom: 0%;
     width: 100%;
     height: 100%;
-    background: -webkit-linear-gradient(0deg, rgba(0, 0,0, 0.5), rgba(255, 255, 255, 0));
-    background: -o-linear-gradient(0deg, rgba(0, 0,0, 0.5), rgba(255, 255, 255, 0));
-    background: -moz-linear-gradient(0deg, rgba(0, 0,0, 0.5), rgba(255, 255, 255, 0));
-    background: linear-gradient(0deg, rgba(0, 0,0, 0.5), rgba(255, 255, 255, 0));
+    background: -webkit-linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0));
+    background: -o-linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0));
+    background: -moz-linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0));
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0));
 }
 
 .portfolio-item.one-third .portfolio-info {
@@ -6980,7 +6987,7 @@ footer.style1 {
 /* Flat Our Work Style1
 ---------------------------------------------------------------*/
 .flat-our-work.style1 {
-    padding: 99px 0 0 ;
+    padding: 99px 0 0;
 }
 
 .flat-our-work.style1 .flat-title {
@@ -7164,10 +7171,10 @@ ul.list-info.v1 {
     left: 0;
     height: 100%;
     width: 100%;
-    background: -webkit-linear-gradient(180deg, rgba(0, 0,0, 0.7) 15%, rgba(255, 255, 255, 0));
-    background: -o-linear-gradient(180deg, rgba(0, 0,0, 0.7) 15%, rgba(255, 255, 255, 0));
-    background: -moz-linear-gradient(180deg, rgba(0, 0,0, 0.7) 15%, rgba(255, 255, 255, 0));
-    background: linear-gradient(180deg, rgba(0, 0,0, 1) 15%, rgba(255, 255, 255, 0));
+    background: -webkit-linear-gradient(180deg, rgba(0, 0, 0, 0.7) 15%, rgba(255, 255, 255, 0));
+    background: -o-linear-gradient(180deg, rgba(0, 0, 0, 0.7) 15%, rgba(255, 255, 255, 0));
+    background: -moz-linear-gradient(180deg, rgba(0, 0, 0, 0.7) 15%, rgba(255, 255, 255, 0));
+    background: linear-gradient(180deg, rgba(0, 0, 0, 1) 15%, rgba(255, 255, 255, 0));
     z-index: 1;
 }
 
@@ -7832,10 +7839,12 @@ ul.list-info.v1 {
 /* Top Title Style1 */
 .top-title.stop-title.style1.v2 .top-post {
     letter-spacing: 8.5px;
-}tyle1 {
-     padding: 0;
-     margin-bottom: 80px;
- }
+}
+
+tyle1 {
+    padding: 0;
+    margin-bottom: 80px;
+}
 
 .top-title.style1 p {
     font-size: 18px;
@@ -8476,7 +8485,7 @@ ul.list-info.v1 {
 /* Flat Video
 ---------------------------------------------------------------*/
 .flat-video {
-    padding:7px 0 106px;
+    padding: 7px 0 106px;
 }
 
 .video-title {
@@ -8642,7 +8651,7 @@ ul.list-info.v1 {
 .wrap-portfolio.grid.style5.v1 .portfolio-item .imagebox.style1 .imagebox-header .add-cart {
     top: auto;
     left: auto;
-    transform: translate(0,0);
+    transform: translate(0, 0);
     right: 30px;
     bottom: -50px;
     text-align: right;
@@ -9368,21 +9377,20 @@ ul.list-info.v1 {
 }
 
 /* Wrap Our Work */
-.box-our-work
-{
+.box-our-work {
     font-size: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
 }
-.box-our-work img
-{
+
+.box-our-work img {
     max-width: 750px;
     border-radius: 5px;
 }
-.box-our-work a
-{
+
+.box-our-work a {
     width: fit-content;
     margin: 10px;
     display: flex;
@@ -9390,33 +9398,33 @@ ul.list-info.v1 {
     border-bottom: 2px solid transparent;
     transition: all .2s;
 }
-.box-our-work a:hover
-{
+
+.box-our-work a:hover {
     color: #ff3c3c;
     border-bottom: 2px solid #ff3c3c;
 }
-.box-our-work img.s
-{
+
+.box-our-work img.s {
     max-width: 350px;
     max-height: 350px;
     border-radius: 5px;
 }
-.box-left .box-text
-{
+
+.box-left .box-text {
     margin-left: 80px;
 }
-.box-right .box-text
-{
+
+.box-right .box-text {
     text-align: right !important;
     margin-right: 80px;
 }
-.box-right a
-{
+
+.box-right a {
     float: right;
     justify-content: right;
 }
-.box-text h2
-{
+
+.box-text h2 {
     font-weight: 700;
     margin-bottom: 50px;
 }

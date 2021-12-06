@@ -93,7 +93,7 @@
     }
 
     .menu-canvas.style1::-webkit-scrollbar-thumb {
-        background-color: rgba(0,0,0,0.3);
+        background-color: rgba(0, 0, 0, 0.3);
     }
 
     .column-4 {
@@ -115,38 +115,31 @@
 
 /* Smaller than standard 1200 */
 @media only screen and (max-width: 1199px) {
-    #app-cover
-    {
+    #app-cover {
         transform: scale(.5);
     }
-    .flex-just--inComputer
-    {
+    .flex-just--inComputer {
         display: block;
     }
-    .card--big
-    {
+    .card--big {
         width: 100%;
         margin: auto;
         margin-bottom: 40px;
     }
-    .text-me.style1 .text-header h1
-    {
+    .text-me.style1 .text-header h1 {
         margin-top: 40px;
     }
-    .text-me .text-header > p
-    {
+    .text-me .text-header > p {
         margin: auto;
     }
-    .steps .steps-container .date
-    {
+    .steps .steps-container .date {
         width: 40px;
         height: 40px;
     }
     .steps::after {
         left: 20px;
     }
-    .step-line
-    {
+    .step-line {
         width: 10px;
         margin-top: 20px;
     }
@@ -587,7 +580,7 @@
     }
 
     #mainnav-mobi::-webkit-scrollbar-thumb {
-        background-color: rgba(0,0,0,0.3);
+        background-color: rgba(0, 0, 0, 0.3);
     }
 
     #header.style1.v1 ~ #mainnav-mobi {
@@ -1136,14 +1129,12 @@
     .flat-about-me.style1,
     .flat-skill-me.style1,
     .flat-work,
-    .flat-price
-    {
+    .flat-price {
         padding: 100px 0 !important;
         clip-path: polygon(0 5%, 100% 0, 100% 95%, 0% 100%) !important;
     }
 
-    .flat-about-me
-    {
+    .flat-about-me {
         clip-path: polygon(0 0%, 100% 0, 100% 95%, 0% 100%) !important;
     }
 
@@ -1173,51 +1164,44 @@
 @media (max-width: 767px) {
 
     /* Wrap Our Work */
-    .box-our-work
-    {
+    .box-our-work {
         font-size: 20px;
         display: block;
         justify-content: center;
         align-items: center;
         width: 100%;
     }
-    .box-our-work img
-    {
+    .box-our-work img {
         width: 100%;
         border-radius: 5px;
     }
-    .box-our-work img.s
-    {
+    .box-our-work img.s {
         width: 100%;
         height: auto;
         border-radius: 5px;
     }
-    .box-left .box-text
-    {
+    .box-left .box-text {
         margin: auto;
         display: block;
         justify-content: center;
         align-items: center;
         text-align: center;
     }
-    .box-right .box-text
-    {
+    .box-right .box-text {
         margin: auto;
         display: block;
         justify-content: center;
         align-items: center;
         text-align: center !important;
     }
-    .box-text h2
-    {
+    .box-text h2 {
         display: flex;
         justify-content: center;
         align-items: center;
         text-align: center !important;
         margin: 20px auto;
     }
-    .box-our-work a
-    {
+    .box-our-work a {
         float: none;
         width: auto !important;
         align-items: center;
@@ -1254,8 +1238,7 @@
     #main-shop {
         padding: 50px 30px;
     }
-    .wrap-our-work .box-our-work .box-image img
-    {
+    .wrap-our-work .box-our-work .box-image img {
         height: 200px;
         width: 200px;
         min-width: auto;
@@ -1326,7 +1309,7 @@
     }
 
     .testimonial-item.style2 {
-        padding: 30px ;
+        padding: 30px;
     }
 
     .flat-button-styles {
@@ -1344,7 +1327,7 @@
     .imagebox.style2.v5 .imagebox-image img,
     .column-3,
     article.minimals-creative-post.style1 .entry-post .one-half,
-    .wrap-portfolio.grid.style5.v1 .portfolio-item,.owl-carousel-15 .owl-item img,
+    .wrap-portfolio.grid.style5.v1 .portfolio-item, .owl-carousel-15 .owl-item img,
     .wrap-our-work .box-our-work .box-text.box-left,
     .wrap-our-work .box-our-work .box-left,
     .flat-choose img,
@@ -1450,7 +1433,7 @@
     .flat-skill-me,
     .wrap-counter.style2 .square,
     .flat-iconbox.style3 {
-        padding: 50px 0 0 ;
+        padding: 50px 0 0;
     }
 
     .main-jobs,
@@ -2128,8 +2111,7 @@
     .widget-partner ul li:nth-child(1), .widget-partner ul li:nth-child(4) {
         border-left: none;
     }
-    .my-mission
-    {
+    .my-mission {
         padding: 10px !important;
     }
 }
